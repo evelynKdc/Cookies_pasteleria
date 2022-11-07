@@ -372,7 +372,7 @@ form h1{
         
     }
     .container_menu_icon img{
-        width: 30px;
+        width: 34px;
     }
     .nav_options{
         position: fixed;
@@ -463,7 +463,7 @@ form h1{
 }
 @media screen and (max-width: 800px) {
     .banner img{
-        height: 50vh;
+        height: 40vh;
     }
     .container_general{
         height: auto;
